@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00cde728-362f-482a-8a98-af0630820504" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/landing-page.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.index.html.swo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.index.html.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Antonio_Giovinazzi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Carlos_Sainz.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Charles_Leclerc.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/F1-75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Mattia_Binotto.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/SF_Header.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/SF_Header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Scuderia_Ferrari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C9BDkGjQ7urfnQkpc7vDUjUQj7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/nishanthrao/Project_ODIN_Repository/Project_ODIN/landing-page"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00cde728-362f-482a-8a98-af0630820504" name="Changes" comment="" />
+      <created>1658204802386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658204802386</updated>
+      <workItem from="1658204803545" duration="765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
